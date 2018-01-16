@@ -9,5 +9,5 @@ Function updatePlaylist(playlist, artistName, songTitle) {
 }
 
 Function removeFromPlaylist(playlist, artistName) {
-  delete playlist.artistName
+  delete playlist[artistName]
 }
