@@ -1,5 +1,5 @@
 var playList = {
-  'Alan Walker': 'Faded',
+  'Alan Walker': Faded,
   'Sajjad Ali': 'Har Zulm'
 }
 
