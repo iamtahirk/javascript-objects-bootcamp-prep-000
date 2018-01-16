@@ -1,6 +1,6 @@
-var playList = {
-  'Alan Walker': 'Faded',
-  'Sajjad Ali': 'Har Zulm'
+var playlist = {
+  'Foo Fighters': 'Everlong',
+  Prince: 'Purple Rain'
 }
 
 function updatePlaylist(playlist, artist, song) {
