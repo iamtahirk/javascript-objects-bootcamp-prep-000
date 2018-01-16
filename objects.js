@@ -8,3 +8,7 @@ Function updatePlaylist(playlist, artistName, songTitle) {
   return playlist
 }
 
+Function removeFromPlaylist(playlist, artistName, songTitle) {
+  playlist[artist] = songTitle
+  return playlist
+}
