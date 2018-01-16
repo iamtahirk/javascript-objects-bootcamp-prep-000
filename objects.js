@@ -7,3 +7,4 @@ Function updatePlaylist(playlist, artistName, songTitle) {
   playlist[artist] = songTitle
   return playlist
 }
+
